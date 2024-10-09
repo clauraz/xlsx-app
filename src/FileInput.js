@@ -130,7 +130,7 @@ function FileInput() {
                 width: "100px",
               }}
             >
-              Submit Files
+              Adauga fisierele
             </button>
           </div>
         )}
@@ -144,7 +144,7 @@ function FileInput() {
         }}
         onClick={handleDownload}
       >
-        Download new file
+        Descarca fisierul nou
       </button>
     </div>
   );
