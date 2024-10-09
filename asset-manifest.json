@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xlsx-app/static/css/main.f855e6bc.css",
-    "main.js": "/xlsx-app/static/js/main.f6bc0ff3.js",
+    "main.js": "/xlsx-app/static/js/main.cad15b6a.js",
     "static/js/453.ce14c381.chunk.js": "/xlsx-app/static/js/453.ce14c381.chunk.js",
     "index.html": "/xlsx-app/index.html",
     "main.f855e6bc.css.map": "/xlsx-app/static/css/main.f855e6bc.css.map",
-    "main.f6bc0ff3.js.map": "/xlsx-app/static/js/main.f6bc0ff3.js.map",
+    "main.cad15b6a.js.map": "/xlsx-app/static/js/main.cad15b6a.js.map",
     "453.ce14c381.chunk.js.map": "/xlsx-app/static/js/453.ce14c381.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f6bc0ff3.js"
+    "static/js/main.cad15b6a.js"
   ]
 }
