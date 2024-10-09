@@ -97,6 +97,7 @@ function FileInput() {
             id="xlsx-1"
             type="file"
             style={{ marginLeft: "10px", width: "180px" }}
+            disabled={data.length > 0}
           />
         </label>
         <label>
@@ -106,6 +107,7 @@ function FileInput() {
             id="xlsx-2"
             type="file"
             style={{ marginLeft: "10px", width: "180px" }}
+            disabled={data.length > 0}
           />
         </label>
         <label>
@@ -117,6 +119,7 @@ function FileInput() {
             defaultValue={0}
             min={0}
             style={{ width: "35px", marginLeft: "10px", marginRight: "10px" }}
+            disabled={data.length > 0}
           ></input>
           caractere
         </label>
