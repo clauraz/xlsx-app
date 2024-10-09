@@ -126,7 +126,7 @@ function FileInput() {
               type="submit"
               disabled={data.length > 0}
               style={{
-                height: "30px",
+                height: "50px",
                 width: "100px",
               }}
             >
